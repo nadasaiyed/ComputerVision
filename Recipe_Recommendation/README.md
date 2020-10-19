@@ -1,1 +1,1 @@
-Built CNN models (Transfer LEarning using Keras and TesorFlow) to classify food images with a 92% accuracy. Mapped food images to their recipe to provide recommendations based on ingredients and nutritional by computing text similarity amongst recipe clusters
+Built CNN models (Transfer Learning using Keras and TesorFlow) to classify food images with a 92% accuracy. Mapped food images to their recipe to provide recommendations based on ingredients and nutritional by computing text similarity amongst recipe clusters
